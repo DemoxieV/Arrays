@@ -1,4 +1,4 @@
-package com.company;
+package com.Shildt_1;
 // Использование for-each для обращения к двумерному массиву
 public class ForEach2 {
     public static void main(String[] args) {

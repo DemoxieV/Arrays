@@ -1,4 +1,4 @@
-package com.company2;
+package com.Shildt_labs;
 // алгоритм поиска значения в неотсортированном массиве с помощью for-each
 // цикл прерывается, если искомый элемент найден
 public class Search {

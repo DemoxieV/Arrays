@@ -1,4 +1,4 @@
-package com.company2;
+package com.Shildt_labs;
 //Создание класса очереди
 public class Queue {
     char q[]; // массив для хранения элементов очереди

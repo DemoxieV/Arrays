@@ -1,4 +1,4 @@
-package com.company;
+package com.Shildt_1;
 //Вывод многомерных (зд.трехмерных) массивов
 public class MultiDimArr {
     public static void main(String[] args) {

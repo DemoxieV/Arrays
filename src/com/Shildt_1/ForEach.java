@@ -1,4 +1,4 @@
-package com.company;
+package com.Shildt_1;
 
 // Использование цикла for-each для суммирования и отображение значений массива
 public class ForEach {

@@ -1,4 +1,4 @@
-package com.company;
+package com.Shildt_labs;
 //Реализация алгоритма пузырьковой сортировки одномерного массива
 public class Bubble {
     public static void main(String[] args) {

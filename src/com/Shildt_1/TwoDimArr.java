@@ -1,4 +1,4 @@
-package com.company;
+package com.Shildt_1;
 //Демонстрация двумерного целочисленного табличного массива
 public class TwoDimArr {
     public static void main(String[] args) {

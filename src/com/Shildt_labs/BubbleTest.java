@@ -1,4 +1,4 @@
-package com.company;
+package com.Shildt_labs;
 
 public class BubbleTest {
     public static void main(String[] args) {

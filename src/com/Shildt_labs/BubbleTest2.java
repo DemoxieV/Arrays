@@ -1,6 +1,4 @@
-package com.company;
-
-import org.w3c.dom.ls.LSOutput;
+package com.Shildt_labs;
 
 public class BubbleTest2 {
     public static void main(String[] args) {

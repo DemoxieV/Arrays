@@ -1,4 +1,4 @@
-package com.company;
+package com.Shildt_1;
 
 public class MinMax {
     public static void main(String[] args) {

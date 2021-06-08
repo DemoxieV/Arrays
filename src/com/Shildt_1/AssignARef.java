@@ -1,4 +1,4 @@
-package com.company;
+package com.Shildt_1;
 //присваивание ссылок на массивы
 public class AssignARef {
     public static void main(String[] args) {

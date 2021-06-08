@@ -1,6 +1,4 @@
-package com.company2;
-
-import java.sql.SQLOutput;
+package com.Shildt_labs;
 
 //Демонстрация использования класса очереди
 public class QDemo {

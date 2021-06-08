@@ -1,4 +1,4 @@
-package com.company;
+package com.Shildt_1;
 //Инициализация двумерного массива
 public class Squares {
     public static void main(String[] args) {

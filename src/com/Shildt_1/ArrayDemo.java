@@ -1,4 +1,4 @@
-package com.company;
+package com.Shildt_1;
 //Демонстрация одномерного массива
 public class ArrayDemo {
 
