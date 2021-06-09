@@ -8,6 +8,10 @@ public class QDemo {
         char ch;
         int i;
 
+        QueueNew test=new QueueNew(10);
+        //test.q[0]=99; //Ошибка!
+        //test.putloc=-100; //Не пройдет!
+
         System.out.println("Использование очереди bigQ для сохранения алфавита");
 //  Помещение буквенных символов в очередь bigQ
         for (i = 0; i < 26; i++) {
